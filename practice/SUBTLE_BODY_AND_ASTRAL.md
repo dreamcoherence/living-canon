@@ -1,18 +1,30 @@
 # Dream Coherence. The Subtle Body and the Astral Dimension.
 
-**Version 1.0. May 2026. Sovereign Voice register where the work itself is articulated; Working Voice register for the operational sections. The subtle body as a working dimension of the protocol architecture. Crystallizing — the territory is being articulated in a contemporary form that holds the lineage's rigor without importing the lineage's period-bound apparatus.**
+**Version 1.1. October 2026. Sovereign Voice register where the work itself is articulated; Working Voice register for the operational sections. The subtle body as a working dimension of the protocol architecture. Crystallizing — the territory is being articulated in a contemporary form that holds the lineage's rigor without importing the lineage's period-bound apparatus. v1.1 (2026-10-23) adds the three-register rule, the nonhierarchical working-register statement, the central channel section, the Witness clarification, astral limits, and a safety section, and brings subtle-anatomy language into register discipline. The V1 architecture is retained in full. Prior note: Version 1.0, May 2026.**
 
 This file articulates the subtle body and the astral dimension as a working layer of Dream Coherence. The territory is not peripheral. The territory is one of the central operational layers of the protocol — the layer at which dream practice, energy practice, identity work, and the cultivation of subtle perception converge.
 
-The articulation here is both philosophical (what is being claimed) and practical (how the work is done). The work draws from Kashmir Shaivism, Dzogchen, Daoist internal alchemy, Steiner's anthroposophical articulation of the fourfold human, Gurdjieff's three-centers and higher bodies, the Hermetic tradition, and contemporary lucid dreaming and out-of-body practice research. The convergence of these traditions on the existence and structure of a subtle body is one of the most striking confirmations available to contemplative work: traditions that did not communicate with each other across centuries and cultures arrived at similar maps of human anatomy beyond the physical.
+The articulation here is both philosophical (what is being claimed) and practical (how the work is done). The work draws from Kashmir Shaivism, Dzogchen, Daoist internal alchemy, Steiner's anthroposophical articulation of the fourfold human, Gurdjieff's three-centers and higher bodies, the Hermetic tradition, and contemporary lucid dreaming and out-of-body practice research. These traditions converge on the existence and rough structure of a subtle body: traditions that did not communicate with each other across centuries and cultures arrived at similar maps of human experience beyond the physical. Convergence is a reason to take the territory seriously. It is not proof, and structural resonance between maps does not establish anatomical identity between them.
 
 This file gives Dream Coherence's working articulation. The articulation is not the final word — it is the working synthesis at this moment, calibrated to be useful to the protocol while holding the discernment that prevents the work from drifting into New Age vagueness or sectarian narrowness.
 
 ---
 
+## The Three-Register Rule
+
+Every subtle-body claim in this file, and in anything built from it, is stated in one of three registers, and the registers are never collapsed:
+
+1. **Direct sensation or phenomenology.** Warmth, pressure, breath, posture, vitality, felt intensity, attention. Directly available.
+2. **Lineage-specific map.** Channels, centers, qi, prana, winds, dantians, nadis, tsa, koshas, and related maps, attributed to the tradition that articulates them. A map, not an anatomy.
+3. **Metaphysical interpretation.** Claims about subtle orders of being. Dream Coherence's wager, named as wager.
+
+No register proves the one after it. Where the sections below use lineage language, read register two unless the text says otherwise.
+
+---
+
 ## What Is Being Claimed
 
-The human being is more than the physical body. There are layers of organization that interpenetrate the physical body, are continuous with it, and operate according to their own principles. These layers are not metaphorical, not psychological, not "spiritual" in some vague sense. They are perceptible to the cultivated practitioner, work-able through specific practice, and form the operational substrate of phenomena that conventional physicalism cannot account for — dream, lucidity, energetic experience, healing dynamics, the felt sense, intuition, and what the lineages have called the higher cognition.
+The human being is more than the physical body. There are layers of organization that interpenetrate the physical body, are continuous with it, and operate according to their own principles. These layers are not merely metaphorical and not reducible to vagueness. They are reported as perceptible by cultivated practitioners, work-able through specific practice, and offered as a working account of phenomena conventional physicalism does not readily explain: dream, lucidity, energetic experience, the felt sense, intuition, and what the lineages have called higher cognition. In the three registers: the sensations are directly available; the layer maps are lineage-specific; that they are orders of being is metaphysical interpretation.
 
 The claim is held with intellectual honesty. The subtle body is not provable in the way a tibia is provable. It is verifiable through direct contemplative experience by anyone who undertakes the work. The work does not require belief; the work requires practice and the willingness to verify in one's own experience.
 
@@ -24,9 +36,11 @@ The subtle body is also not a single thing. Different lineages articulate the la
 
 Dream Coherence works with five layers of the human as integrated practice. The layers are not separate selves; they are dimensions of one integrated being, distinguished operationally for the work.
 
+They are lineage-informed working registers, not separate proven substances, not a spiritual rank, and not a ladder. They are nonhierarchical: no register is nearer the truth than another, and the Witness is not above the body. Where this file says layer, read working register.
+
 ### Layer One. The Physical Body.
 
-The dense body. The flesh, the bones, the nervous system, the gross anatomy. The instrument that lives in the world of space and time. The first foundation of all practice. A dysregulated physical body cannot hold subtle perception. The physical body is not what is left behind; it is the alchemical vessel within which the work happens.
+The dense body. The flesh, the bones, the nervous system, the gross anatomy. The instrument that lives in the world of space and time. The first foundation of all practice. Embodied regulation conditions how safely and sustainably subtle perception can be held and integrated. This names a condition and an instrument, not a verdict on anyone's capacity: no claim is made that a dysregulated or disabled person cannot practice or is spiritually less capable. The physical body is not what is left behind; it is the alchemical vessel within which the work happens.
 
 **Operational features.**
 - Sensation, posture, breath, movement
@@ -44,7 +58,7 @@ The dense body. The flesh, the bones, the nervous system, the gross anatomy. The
 
 The energy body. The life-force layer that interpenetrates the physical body and gives it its livingness. In Steiner: the etheric body. In Daoist tradition: the qi body. In Indian traditions: the prāṇamaya kosha (the sheath of vital energy). In contemporary terms: the felt energetic dimension that practitioners begin to perceive as the work matures.
 
-The etheric body is not separate from the physical body; it is the energetic dimension of the physical body. When the etheric body withdraws, the physical body dies. When the etheric body is depleted, the physical body fatigues. When the etheric body is vital, the physical body has presence.
+The etheric body is not separate from the physical body; in the lineage maps it is the energetic dimension of the physical body. In those maps, when the etheric body withdraws the physical body dies; when it is depleted the physical fatigues; when it is vital the physical has presence. This is register two, the traditions' map, not established biomedical anatomy. What is directly available is fatigue, vitality, and felt aliveness.
 
 **Operational features.**
 - The felt energetic field around and within the physical body
@@ -113,12 +127,12 @@ The mental body is not what is left behind in contemplative work. Contemporary c
 
 ### Layer Five. The Causal / Witness Body.
 
-The witness layer. The awareness that is aware of all four lower layers. The layer that does not change while the lower layers move. In Indian traditions: the ānandamaya kosha (the sheath of bliss) approached from below; the ātman approached from above. In Steiner: the higher dimensions of the "I" organization, the spirit-self and beyond. In Dzogchen: rigpa, pure awareness. In Kashmir Shaivism: Shiva-consciousness, the recognition that what looks out from one's eyes is the same awareness that is the universe.
+The witness register. Awareness as it knows every register. It is not a layer stacked above the others, and not a separate observer positioned over them. In Indian traditions: the ānandamaya kosha (the sheath of bliss) approached from below; the ātman approached from above. In Steiner: the higher dimensions of the "I" organization, the spirit-self and beyond. In Dzogchen: rigpa, pure awareness. In Kashmir Shaivism: Shiva-consciousness, the recognition that what looks out from one's eyes is the same awareness that is the universe.
 
-This is the deepest layer Dream Coherence works with, and the recognition of this layer is the central transmission of the work. The other four layers are real, perceptible, and work-able. This layer is what is doing the perceiving and working at all the other layers. It is not a sixth thing; it is the awareness that the other five are.
+The recognition of this register is the central transmission of the work. It is not a sixth thing and not a rank above the rest; it is the awareness within which the other registers are known. The Witness is not detached from body and world, and self-remembering must not install a second watcher, inner surveillance, or a dissociative split.
 
 **Operational features.**
-- The witness who watches thought, sensation, dream, energy without being any of them
+- Awareness in which thought, sensation, dream, and energy are known, without being identical to any of them
 - The recognition that does not depend on the content of experience
 - The presence that is the same in waking, dream, and deep sleep
 - The ground from which all the other layers appear
@@ -128,7 +142,17 @@ This is the deepest layer Dream Coherence works with, and the recognition of thi
 - The Dzogchen pointing-out instructions
 - The Pratyabhijñā recognition practice
 - Self-remembering in the Gurdjieffian sense (the witness who can observe oneself in action)
-- The cultivation of the position from which all experience is observed
+- The cultivation of the standpoint from which experience is met, without positing an inner observer behind the eyes
+
+---
+
+## The Central Channel
+
+The central channel is a lineage and practice map, not established biomedical anatomy. "Conduct the Central Channel" (Passage III) means to carry, coordinate, and give passage to the intensities of a life. It does not mean forcing energy through an anatomical tube, and it does not prove a subtle structure.
+
+The maps are not interchangeable. The Daoist microcosmic orbit is not simply the Indic or Tibetan central channel. Qi is not simply prana. Daoist channels are not simply nadis or tsa. Jing-qi-shen is not a universal subtle-body ladder. Structural resonance does not prove anatomical identity.
+
+Current (see `canon/GROUND_CURRENT_COMMUNION.md`) is distinguished from the central channel. Current is awareness differentiating; the channel is a map of embodied conduction.
 
 ---
 
@@ -142,7 +166,7 @@ The five layers are not separate. They interpenetrate. The work is not about asc
 
 **The astral body and the mental body** are in continuous dialogue. The mental body interprets what the astral body perceives. Sometimes the mental body misinterprets astral perception (treating a vision as a literal claim, treating a felt sense as a thought). Sometimes the mental body fails to articulate what the astral knows (the felt sense is real but cannot be put into words yet). Integration requires both to be cultivated.
 
-**The witness layer** is what is aware of all the others. The witness does not produce the other layers; the witness is the awareness in which the other layers appear. The witness cannot be cultivated in the same way the other layers can be cultivated, because the witness is not a faculty — the witness is what is. But the recognition of the witness can stabilize, and the practitioner can learn to operate from the witness rather than from identification with any of the lower layers.
+**The witness layer** is what is aware of all the others. The witness does not produce the other layers; the witness is the awareness in which the other layers appear. The witness cannot be cultivated in the same way the other layers can be cultivated, because the witness is not a faculty — the witness is what is. But the recognition of the witness can stabilize, and the practitioner can learn to operate from the witness rather than from identification with any single register. Operating from the witness is not standing above the other registers or watching oneself from outside. The ordering here is operational, never a hierarchy of worth or attainment.
 
 **The work is the integration.** Practice that works only one layer leaves the others undeveloped. Practice that works all five in integrated form is the complete practice. Dream Coherence's protocol is designed as integration — the daily practice touches multiple layers; the protocol as a whole develops all five over time.
 
@@ -155,6 +179,8 @@ For Dream Coherence specifically, the astral body is the most distinctive workin
 The astral body in particular has been almost entirely lost in contemporary contemplative discourse. The traditions that articulated it most carefully — Steiner, the Hermetic tradition, classical theosophy in its serious sense, the Tibetan dream yoga tradition — have been either dismissed as Victorian-era occultism or watered down into New Age vagueness.
 
 Dream Coherence holds the astral body as a serious working dimension. The work names it. The work practices with it. The work transmits what is verifiable through practice. The work does not require belief; the work invites verification.
+
+**Limits.** The astral register cannot justify privileged knowledge of other people's minds or of external events. An astral experience is real as astral experience; whether anything physical also occurred is a separate question, answered separately and on its own evidence. The astral is not casually equated with Corbin's mundus imaginalis.
 
 **What this means operationally.**
 
@@ -216,17 +242,25 @@ The discernment is what makes the work serious. The work names the territory hon
 
 ---
 
+## Safety
+
+Entry material excludes forceful breath retention, extreme sleep disruption, sexual-energy techniques, forced circulation, initiatory practices, and energetic escalation. Stronger energetic practices require separate safety review and qualified containment.
+
+Subtle-body work is not medical treatment and is not a substitute for it. Where psychological work is needed at the personality level, subtle-body practice does not replace it. See `operations/SAFETY_AND_RED_TEAMING.md`.
+
+---
+
 ## How This File Connects to the Rest of the Architecture
 
 The subtle body articulation here informs:
 
-**`02_FIELD_ONTOLOGY_AND_VIEW.md`.** The view of reality includes the subtle dimensions; the field is not only the physical world.
+**`canon/ONTOLOGY.md`** (V1's `archive/v1/02_FIELD_ONTOLOGY_AND_VIEW.md`)**.** The view of reality includes the subtle dimensions; the field is not only the physical world.
 
-**`05_DAILY_DREAM_COHERENCE_PRACTICE.md`.** The daily practice touches all five layers in integrated form. The morning practice particularly engages physical/etheric; the evening practice particularly engages astral/dream.
+**`practice/DAILY_PRACTICE.md`.** The daily practice touches all five layers in integrated form. The morning practice particularly engages physical/etheric; the evening practice particularly engages astral/dream.
 
-**`LEXICON.md`.** Terms like astral body, etheric body, subtle body, layers of the human are defined in the lexicon with reference to this file.
+**`canon/LEXICON.md`.** Terms like astral body, etheric body, subtle body, layers of the human are defined in the lexicon with reference to this file.
 
-**`06_PROTOCOL_LAB_AND_RESEARCH_METHOD.md`.** The protocol's stages calibrate to the layers as named in the section above.
+**`practice/PRACTICE_OS.md`** (V1's `archive/v1/06_PROTOCOL_LAB_AND_RESEARCH_METHOD.md`)**.** The protocol's stages calibrate to the layers as named in the section above.
 
 **The book.** Chapter sequences that touch the dream stage, the energy work, and the identity work draw their depth from the subtle body articulation here.
 
