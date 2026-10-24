@@ -348,6 +348,36 @@ A conceptual decision affecting the titular word, prompted by an external synthe
 
 ---
 
+### From the First Threshold canon integration (2026-10-23)
+
+An external handoff (First Threshold Canon Handoff v1.0, 77 pp.) read in full and sifted. Twelve entries, all pending integration. Founder rulings D1 to D5e are recorded in `DECISION_LOG.md`.
+
+**[2026-10-23]** *Class: Recognition.* — Ground, Current, Communion adopted as the three simultaneous dimensions of the living dream. Ground is Awareness named by role; Current is Awareness differentiating; Communion is the shared world of other beings and the bound on authorship. Applies to: Ontology, Lexicon, Practice OS, all Passage briefs.
+
+**[2026-10-23]** *Class: Discipline.* — Four epistemic registers (immediate fact, phenomenological finding, metaphysical wager, teleological or poetic disclosure). No register proves the one that follows it. Public prose may move among registers but may not conceal the transition. Applies to: every canon file, every Passage.
+
+**[2026-10-23]** *Class: Discipline.* — Standpoint, identity, person, and Ground kept distinct. The person is real; awakening loosens enclosure, not personhood. Applies to: Ontology, Lexicon, Passage I.
+
+**[2026-10-23]** *Class: Risk.* — Alterity and shared-world protection: other beings are not symbols in a private dream; shared reality exceeds every standpoint. Participatory idealism without Communion collapses into solipsism. Applies to: Seven Axioms II (amended 2026-10-23), Foundation (alignment audit), Brand Voice.
+
+**[2026-10-23]** *Class: Recognition.* — Coherence refined as lucidity integrated across embodiment, identity, conduct, relationship, dreaming, and time; coordination across difference, not emotional smoothness. Lucidity remains root (locked recognition 2026-06-09 retained verbatim). Ratified by founder 2026-10-23 (D1a). Applies to: Lexicon (done provisionally), Ground Current Communion (done), Brand Voice public copy.
+
+**[2026-10-23]** *Class: Risk.* — Agency without omnipotence. "Identity selects perception" replaced by "identity participates in shaping perception." Participation is agency in relation, not control. Applies to: Ontology (done), Lexicon (done), Seven Axioms II (audit).
+
+**[2026-10-23]** *Class: Product.* — Reciprocity correction: contribution may invite reciprocity but cannot command reward. Living Pattern relabeled as operating hypothesis. Applies to: Seven Axioms VII (audit), Revenue Flywheel, Invitation OS, sales copy.
+
+**[2026-10-23]** *Class: Discipline.* — Architectural Law replaces the Fractal Law and strict motif economy: Foundation lays the ground; each Passage develops one new consequence, activates one faculty, adds one structural distinction. Applied: Foundation header (D5a), Making OS Amendment A7 (D5b). Pending: Arc Motif Ledger converted to echo log. Applies to: .
+
+**[2026-10-23]** *Class: Safety.* — Grandiose vocation named as a warning sign. Golden Thread gains disconfirmation question and counterfeit list. Shadow of coherence added to Safety. Applies to: course screening, Passage VII brief.
+
+**[2026-10-23]** *Class: Product.* — Course cadence unresolved: snapshot says four live sessions; historical handoff says ten weeks; archive holds other durations. Eight Passages do not equal eight weeks. Applies to: First Threshold Founding Cohort.
+
+**[2026-10-23]** *Class: Recognition (candidate, held).* — From the Living Dream Framework draft (2026-10): the seven-movement recurring cycle (Recognize, Remember, Gather, Attune, Discern, Give form, Offer). Not adopted. Overlaps the Living Pattern, Practice OS stages, the four rungs, and the protocol loop. Route to Protocol Lab as experiment; a master-sequence ruling is needed across existing sequences first. Applies to: Practice OS.
+
+**[2026-10-23]** *Class: Voice.* — "The Turn" now carries two senses: the brand-voice wedge (meeting of the two truths) and the historical "departure from most traditions." The second is reframed as emphasis and synthesis, not invention. Name collision to resolve. Applies to: Brand Voice Public Crystallization, Lineage Map.
+
+---
+
 ## Integrated entries
 
 [None yet.]
