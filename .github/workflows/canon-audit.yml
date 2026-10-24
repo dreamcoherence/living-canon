@@ -1,0 +1,14 @@
+name: canon-audit
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Canon audit
+        run: bash tools/canon_audit.sh

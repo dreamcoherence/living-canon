@@ -1,6 +1,6 @@
 # Dream Coherence. Lexicon.
 
-**Version 1.3. June 2026. The working definitions of the key terms the work uses. The standalone reference for content production, course material, the book's glossary, and anyone outside the project trying to understand the work. Crystallizing — terms refine as the work matures. v1.3 re-roots Coherence as graded lucidity, the standing degree of lucidity in the waking dream, with the five domains as where it is raised and their alignment as its signature.**
+**Version 1.4. October 2026. v1.4 (2026-10-23) integrates The First Threshold handoff: adds Ground, Current, Communion, Standpoint, Person, and Passage; refines Coherence and Lucidity while keeping lucidity as root (founder rulings P1 to P8, 2026-10-23; P9 applied per recommendation, reversible by founder letter; Current remains provisional pending Rigor Map); brings Awareness, Body, Identity, Subtle Body, and Witness into register discipline. Prior note: Version 1.3. June 2026. The working definitions of the key terms the work uses. The standalone reference for content production, course material, the book's glossary, and anyone outside the project trying to understand the work. Crystallizing — terms refine as the work matures. v1.3 re-roots Coherence as graded lucidity, the standing degree of lucidity in the waking dream, with the five domains as where it is raised and their alignment as its signature.**
 
 The lexicon holds the operational meanings of the terms the work uses. Each term has a Brand Voice definition (for public-facing surfaces) and, where the term needs more precision, a Sovereign Voice definition (for the book and the deepest transmissions). The two are coherent; they differ in density and register, not in meaning.
 
@@ -26,7 +26,7 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ## Awareness
 
-**Brand Voice.** The screen on which everything appears. The seeing within which thought, sensation, image, and world become noticeable. Not produced by the brain; the medium within which brains appear.
+**Brand Voice.** The screen on which everything appears. The seeing within which thought, sensation, image, and world become noticeable. On the work's explicit wager, not produced by the brain but the medium within which brains appear.
 
 **Sovereign Voice.** Awareness is what is meant by the word *consciousness* when consciousness is recognized as fundamental. Not a function. Not a property of matter. The ground itself.
 
@@ -34,7 +34,7 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ## Body
 
-**Brand Voice.** The first instrument of the practice. The gate through which recognition becomes lived. A dysregulated body cannot hold subtle perception. Practice begins here.
+**Brand Voice.** The first instrument of the practice. The gate through which recognition becomes lived. Regulation, relationship, environment, and support shape how safely subtle experience can be integrated. Practice begins and returns here.
 
 **Sovereign Voice.** The body is awareness embodied as a specific vessel, capable of holding and transmitting what is being recognized. The body is not separate from awareness; the body is one of the forms awareness takes.
 
@@ -50,9 +50,25 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ## Coherence
 
-**Brand Voice.** Your standing degree of lucidity in the waking dream. From Latin *cohaerere*, to cling together. Not alignment as a static state but lucidity raised into a level of being: how awake you are within the dream of your life. It is built across body, attention, identity, dream, and action, and felt as their alignment. The dream grows responsive to you in proportion to your coherence.
+**Brand Voice.** Your standing degree of lucidity in the waking dream. From Latin *cohaerere*, to cling together. Not alignment as a static state but lucidity raised into a level of being: how awake you are within the dream of your life. It is built across body, attention, identity, conduct, relationship, dream, and time, and felt as their coordination. Coherence holds tension, grief, and disagreement without coming apart. It widens what a life is free to do; it does not dictate what the world returns.
 
-**Sovereign Voice.** Coherence is lucidity that has become a standing condition rather than a passing flicker. The five domains are where it is raised. Their alignment is its signature. The responsiveness of the field is its fruit, and the field answers to being, not to wishing. Coherence is therefore not a switch between asleep and awake but a degree raised one increment at a time, from wherever one stands. It is, in the language of dream, what older work named a level of being.
+**Sovereign Voice.** Coherence is lucidity that has become a standing condition rather than a passing flicker. The domains of a life are where it is raised. Their coordination is its signature: a life that remains related to Ground, Current, and Communion as experience changes. Coherence coordinates difference; it does not erase it. It is therefore not a switch between asleep and awake but a degree raised one increment at a time, from wherever one stands. Recognition may be immediate. Coherence is cultivated. It is, in the language of dream, what older work named a level of being.
+
+---
+
+## Communion
+
+**Brand Voice.** *(2026-10-23.)* The relational dimension of every experience: a particular life meeting other beings and a shared world it neither privately invents nor controls.
+
+**Sovereign Voice.** Communion is what keeps nonduality honest. Whatever reality's ultimate unity, no single standpoint possesses the whole, and other lives have their own inwardness, freedom, and claim upon conduct. Communion is also the bound on authorship. See `canon/GROUND_CURRENT_COMMUNION.md`.
+
+---
+
+## Current
+
+**Brand Voice.** *(Provisional, 2026-10-23.)* The living movement of experience: sensation, image, emotion, desire, thought, speech, and action arising and changing.
+
+**Sovereign Voice.** Current is awareness differentiating as this moment. The Ground is not opposed to movement; Current is that movement, felt from within. It names a living pulse, never a frequency or a rank.
 
 ---
 
@@ -88,11 +104,19 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ---
 
+## Ground
+
+**Brand Voice.** *(2026-10-23.)* Awareness, named by its role: what every experience is present within and known by.
+
+**Sovereign Voice.** Ground is Awareness as intrinsically present and knowing, held as the work's explicit wager. It is neither blank absence nor a detached observer standing elsewhere from life.
+
+---
+
 ## Identity
 
-**Brand Voice.** The lived assumption of what one is, what is possible, and what life is allowed to become. Not only a belief; a configuration of body, attention, memory, emotion, imagination, and expectation that selects what is perceived.
+**Brand Voice.** The lived assumption of what one is, what is possible, and what life is allowed to become. Not only a belief; a configuration of body, attention, memory, emotion, imagination, and expectation that participates in shaping what is perceived.
 
-**Sovereign Voice.** Identity is awareness self-localized as a specific position from which the dream is being experienced. The position is not fixed; identity can revise. Revision of identity is one of the work's primary disciplines.
+**Sovereign Voice.** Identity is the changing organization through which a person meets the world from a particular standpoint. The organization is not fixed; identity can revise. Revision of identity is one of the work's primary disciplines.
 
 ---
 
@@ -100,7 +124,23 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 **Brand Voice.** The capacity to recognize experience while participating in it. Not detachment. Not dissociation. The middle state in which the dream is recognized as the dream and entered fully anyway. Lucidity comes in degrees: a first flicker of recognition, then steadier presence, then agency within the dream. A level raised, not a state switched on.
 
-**Sovereign Voice.** Lucidity is intimacy without captivity. The seeing that does not stop participation. The participation that does not lose the seeing. Lucidity is graded, and its standing degree, raised across the domains of a life, is what the work names coherence.
+**Sovereign Voice.** Lucidity is intimacy without captivity. The seeing that does not stop participation. The participation that does not lose the seeing. Lucidity is graded, and its standing degree, raised across the domains of a life, is what the work names coherence. In Foundation's words: the degree to which the dream is known as dreaming while it is being dreamed.
+
+---
+
+## Passage
+
+**Brand Voice.** *(2026-10-23.)* One work in The First Threshold, the eight-part cycle that follows Foundation. Each Passage carries a recognition.
+
+**Sovereign Voice.** A Passage is medium-independent: essay, audio, transmission, or module. It develops one new consequence of Foundation, activates one faculty, and adds one structural distinction. See `canon/book/FIRST_THRESHOLD_PASSAGE_CYCLE.md`.
+
+---
+
+## Person
+
+**Brand Voice.** *(2026-10-23.)* The real, embodied, relational continuity through which experience is lived and answered for.
+
+**Sovereign Voice.** The person acts, promises, suffers, loves, remembers, repairs, and remains responsible. The person is real and particular, but not the final boundary of experience. Awakening loosens enclosure, not personhood.
 
 ---
 
@@ -120,6 +160,14 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ---
 
+## Standpoint
+
+**Brand Voice.** *(2026-10-23.)* Where experience is met from: the first-person orientation of a life.
+
+**Sovereign Voice.** A standpoint is particular. It is not the measure of everything that appears. It is not an inner object, a homunculus, a controller, or a point behind the eyes.
+
+---
+
 ## State
 
 **Brand Voice.** The integrated condition of body, attention, identity, and feeling at a given moment, from which perception and action arise. Not a passing mood; the configuration the life is operating from.
@@ -130,9 +178,9 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ## Subtle Body
 
-**Brand Voice.** The layers of the practitioner beyond the gross physical body. In Dream Coherence's working model: etheric, astral, mental, and witness layers, with the physical body as the foundation. The subtle body is real, perceptible to the cultivated practitioner, and work-able through specific practice.
+**Brand Voice.** The layers of the practitioner beyond the gross physical body. In Dream Coherence's working model: etheric, astral, mental, and witness layers, with the physical body as the foundation. The subtle body is a lineage-informed working map: its sensations are directly available, its maps belong to their traditions, and claims about subtle orders of being are metaphysical interpretation. It is work-able through specific practice.
 
-**Sovereign Voice.** The subtle body is the integrated organization of the practitioner across five layers. Different lineages articulate the layers differently; the convergence across traditions on the existence of a subtle dimension is one of contemplative work's most striking confirmations. See `SUBTLE_BODY_AND_ASTRAL.md`.
+**Sovereign Voice.** The subtle body is the integrated organization of the practitioner across five layers. Different lineages articulate the layers differently, and their maps are not anatomically identical. Their convergence is evidence of shared phenomenology, not of shared anatomy. See `SUBTLE_BODY_AND_ASTRAL.md`.
 
 ---
 
@@ -162,7 +210,7 @@ Terms are listed alphabetically. The list is not exhaustive — terms are added 
 
 ## Witness
 
-**Brand Voice.** The awareness that sees thought, emotion, and image without being consumed by them. The internal observer that can be cultivated as a stable position.
+**Brand Voice.** The awareness that sees thought, emotion, and image without being consumed by them. Not an internal observer standing apart: awareness including what is happening, the response to it, and one's own participation.
 
 **Sovereign Voice.** Witness is awareness recognizing itself as the seer rather than as the seen. The witness is not separate from what is witnessed; the witness is the awareness in which both seer and seen appear.
 
@@ -188,11 +236,13 @@ Some terms relate closely:
 - **Astral Body**, **Etheric Body**, and **Subtle Body** are articulated in detail in `SUBTLE_BODY_AND_ASTRAL.md`. The lexicon gives the brief definition; the full working articulation lives in the dedicated file.
 - **Subconscious** and **Superconscious** are not separate territories; they are layers of the same awareness, differentiated by what they hold (unresolved pattern below, higher ordering above). Both operate within the astral and mental body layers.
 - **Dream** and **Coherence** combine in the project's name: the recognition that experience is dreamlike (Dream), and the standing degree of lucidity one holds within it (Coherence).
-- **Lucidity** and **Coherence** are root and measure: lucidity is the recognition itself, flickering or sustained; coherence is lucidity raised to a standing level of being across body, attention, identity, dream, and action. Lucidity is the root; coherence is how much of it stands.
+- **Lucidity** and **Coherence** are root and measure: lucidity is the recognition itself, flickering or sustained; coherence is lucidity raised to a standing level of being and integrated across embodiment, identity, conduct, relationship, dream, and time. Lucidity is the root; coherence is how much of it stands, and how far it reaches.
+- **Ground**, **Current**, and **Communion** are three simultaneous dimensions of one experience: Awareness as present and knowing, Awareness differentiating, and the shared world of other beings. Ground is Awareness named by role.
+- **Standpoint**, **Identity**, **Person**, and **Ground** are kept distinct: where experience is met from, the changing organization of a life, the responsible continuity that lives it, and the awareness it is known within.
 - **Practice** and **Recognition** are not the same. Recognition is already the case. Practice cultivates the conditions for the recognition to stabilize.
 - **Identity** and **State** are related; identity is the longer-arc configuration, state is the moment-to-moment expression.
 - **Dharma** and **Capacity** combine: dharma is what is to be expressed, capacity is what allows the expression.
-- **Witness** is the awareness operating at the deepest layer of the subtle body model — Layer Five, the causal/witness layer that observes the activity of all other layers.
+- **Witness** names awareness at the fifth working register of the subtle body model. The registers are nonhierarchical; the Witness is not a detached observer above the others.
 
 ---
 

@@ -10,6 +10,10 @@ Every asset should extract from the Living Canon and feed back into it.
 
 ## Core series
 
+### The First Threshold
+
+Eight Passages in Dream Coherence. Long-form public works, public-first and course-reading-second. Distinct from daily atomic recognitions. Governed by `canon/book/FIRST_THRESHOLD_PASSAGE_CYCLE.md`. Not produced through the weekly expansion flow.
+
 ### Dream Notes
 
 Daily short recognitions.
@@ -17,6 +21,8 @@ Daily short recognitions.
 ### Threshold
 
 Weekly contemplative short video/reel.
+
+Name collision (OPEN): "Threshold" also names the iOS app and sits inside "The First Threshold." Decide whether this series is renamed.
 
 ### The Waking Dream
 

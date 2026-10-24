@@ -10,7 +10,7 @@ Reality is participatory. Experience has the nature of a dream, and every life i
 
 ## II. Perception
 
-Perception is participation. As seeing changes, the world being participated in changes with it.
+Perception is participation. As seeing changes, the world as it is lived changes with it.
 
 This is stronger than saying recognition precedes transformation. It names the actual mechanism. A life is not transformed after perception changes, as if perception were a preliminary step. The transformation is already occurring in the changed perception, because the world that is lived is the world as perceived, interpreted, embodied, and acted from.
 
@@ -44,7 +44,7 @@ The organism remains faithful not to its previous forms, but to the living truth
 
 Reality flowers through reciprocity.
 
-As recognition becomes participation, participation becomes contribution, contribution becomes flourishing, and flourishing creates the freedom for deeper recognition.
+As recognition becomes participation, participation can become contribution, contribution flourishing, and flourishing the freedom for deeper recognition.
 
 The healthiest organism continually gives rise to the conditions for its own further unfolding.
 

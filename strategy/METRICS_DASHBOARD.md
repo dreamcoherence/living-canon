@@ -13,7 +13,8 @@ Waitlist members:
 
 ### Content
 
-Recognitions published:
+Recognitions published (atomic seeds expressed as public posts):
+First Threshold Passages published:
 Reels:
 Essays:
 Newsletters:

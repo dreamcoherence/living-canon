@@ -8,6 +8,10 @@ Dream Coherence is not trying to fix a broken world.
 
 It is describing and cultivating the pattern by which reality becomes more conscious, beautiful, and participatory through a human life.
 
+## Status
+
+The Living Pattern is a developmental and operational hypothesis, not a guaranteed causal law. Each transition below names what tends to become possible, not what is owed.
+
 ## The pattern
 
 Reality
@@ -28,7 +32,7 @@ Participation is recognition entering conduct.
 
 It is the moment the work stops being insight and becomes a way of moving, choosing, speaking, loving, building, earning, resting, tending, and creating.
 
-Participation is not control over reality. It is conscious involvement with what reality is already disclosing.
+Participation is agency in relation, not control. It is conscious involvement with what reality is already disclosing, within a shared world that can surprise, resist, correct, and exceed the person.
 
 ### Contribution
 
@@ -50,23 +54,27 @@ A flourishing life is not free from difficulty. It is arranged around the deeper
 
 ### Reciprocity
 
-Reciprocity is the field answering genuine contribution.
+Contribution may invite reciprocity. It does not command reward.
 
-It includes money, trust, love, opportunity, attention, collaboration, invitation, support, reputation, and energy returned.
+Reciprocity includes money, trust, love, opportunity, attention, collaboration, invitation, support, reputation, and energy returned.
 
-Reciprocity is not demanded from the world. It is invited by giving something real enough that the field naturally circulates value back toward it.
+Whether it returns depends on relationship, structure, communication, timing, power, material conditions, access, and contingency. A real gift poorly structured, poorly timed, or offered where access is unequal may not return.
+
+Lack of reward does not prove spiritual incoherence. Money is one form of reciprocity, never metaphysical confirmation.
 
 ### Freedom
 
-Freedom is the spaciousness created when reciprocity becomes stable.
+Stable reciprocity can enlarge the conditions of freedom.
 
-It includes financial freedom, time freedom, nervous system freedom, creative freedom, relational freedom, and spiritual freedom.
+Freedom may include financial freedom, time freedom, nervous system freedom, creative freedom, relational freedom, and spiritual freedom.
+
+Stable reciprocity does not create all freedom. Financial and social freedom are unequally distributed. Inner spaciousness must not be used to deny external constraint.
 
 Freedom is not the end of the cycle. Freedom returns attention to deeper recognition.
 
 ### Deeper Recognition
 
-With greater freedom, the founder and the field can listen more deeply.
+With greater freedom, the founder and the work can listen more deeply.
 
 The work refines.
 
@@ -80,16 +88,18 @@ The cycle repeats at a higher octave.
 
 ## The business translation
 
-Recognition produces trust when expressed beautifully.
+Operating hypothesis, tested through `strategy/METRICS_DASHBOARD.md`. Each line names a condition under which the next step tends to occur. When the metrics disagree, the metrics win and this section is revised.
 
-Trust produces practice when the next step is clear.
+Recognition tends to produce trust when expressed beautifully.
 
-Practice produces transformation when the method is real.
+Trust tends to produce practice when the next step is clear.
 
-Transformation produces reciprocity when value is felt.
+Practice tends to produce transformation when the method is real.
 
-Reciprocity produces revenue when the offering is structured.
+Transformation tends to produce reciprocity when value is felt.
 
-Revenue produces freedom when the system is disciplined.
+Reciprocity tends to produce revenue when the offering is structured.
+
+Revenue tends to produce freedom when the system is disciplined.
 
 Freedom produces deeper recognition when the founder returns that freedom to the work.

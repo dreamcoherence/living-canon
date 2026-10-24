@@ -1,0 +1,31 @@
+name: canon-weekly
+on:
+  schedule:
+    - cron: "0 13 * * 0"   # Sundays 13:00 UTC = 08:00 Ecuador
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run audit
+        run: bash tools/canon_audit.sh > audit.txt 2>&1 || true
+      - name: Open weekly review issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          {
+            echo "Weekly canon review for $(date -u +%Y-%m-%d)."
+            echo
+            echo "In Claude Code, from the repo: run /canon-weekly. After merging, click Sync now in the Claude Project."
+            echo
+            echo '```'
+            cat audit.txt
+            echo '```'
+          } > body.md
+          gh issue create --title "Weekly canon review $(date -u +%Y-%m-%d)" --body-file body.md

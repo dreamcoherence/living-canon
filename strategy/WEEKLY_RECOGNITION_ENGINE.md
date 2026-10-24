@@ -4,6 +4,8 @@
 
 One recognition becomes many expressions.
 
+Here "recognition" means an atomic seed. The eight Passages of The First Threshold are a distinct literary cycle, not generic weekly content, and are not produced through this engine's expansion flow.
+
 Nothing is created once.
 
 ## Weekly flow

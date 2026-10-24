@@ -1,8 +1,8 @@
 # Foundation
 ### *The Nature of the World and the Work of a Life*
 
-**Foundation Arc · Essay I · Status: LOCKED — final form.**
-**The root essay of Dream Coherence. Essays II–VII each grow from one movement of this text. Changes only via Continuity Protocol (old → new proposal, founder ruling). Voice and process law: `WRITING_OS.md`.**
+**Foundation · Status: LOCKED, final form.**
+**The root essay of Dream Coherence. Foundation establishes the ground; the eight Passages of The First Threshold build from it without reperforming its argument or reusing its signature imagery as principal material (Architectural Law, 2026-10-23). Changes only via Continuity Protocol (old → new proposal, founder ruling). Voice and process law: `MAKING_OS.md`.**
 
 ---
 
