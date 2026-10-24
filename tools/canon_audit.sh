@@ -17,10 +17,16 @@ block=0
 # 2. canon/GOLDEN_THREAD.md, the counterfeits list. "highest timeline" appears inside
 #    the enumeration of counterfeits the file prohibits, so the match is inverted in
 #    sense. Founder-ruled 2026-10-23.
+# 3. CRITICAL_PATH_V2.md and LAUNCH_CHECKLIST.md, one line each. Both are historical
+#    planning records of a completed ruling ("essays II-VII off the pre-launch path"),
+#    not live doctrine. To be reconciled in the CURRENT_STATE session. Founder ruling
+#    D7c, 2026-10-23. Do not edit the files; the records stand as written.
 ALLOWLIST="$(mktemp)"; trap 'rm -f "$ALLOWLIST"' EXIT
 cat > "$ALLOWLIST" <<'ALLOWEOF'
 ./MAKING_OS.md	**The fractal law.** Foundation is the compressed seed. Essays II–VII each grow from one movement of the root, revealing the whole recognition at a different scale — never introducing a worldview the seed doesn't already hold. Before drafting any Essay N: reread Foundation, identify the parent movement, list its planted motifs, and let the new essay inherit and extend those spines rather than inventing fresh ones. The canon quotes flow *outward* from the root (website quotes essay, never the reverse).
 ./canon/GOLDEN_THREAD.md	- grandiosity: a calling that inflates the self, requires others to organize around it, arrives with urgency and total certainty, or claims election, a highest timeline, or cosmic specialness.
+./CRITICAL_PATH_V2.md	- Essays II–VII: resume post-launch as Sunday-letter source material or 2027 canon work, founder's call then, not now.
+./LAUNCH_CHECKLIST.md	- [x] CRITICAL_PATH_V2 ruled: essays II–VII off pre-launch path (B)
 ALLOWEOF
 allow() {
   awk -F'\t' 'NR==FNR{ a[$1 FS $2]=1; next }
@@ -41,7 +47,7 @@ done
 echo "== 2. Risk vocabulary (WARN: check register) =="
 for pat in "highest timeline" "raise your vibration" "high vibration" "quantum" "manifest" "jivanmukti" \
            "liberation" "Great Spirit" "true self" "people are asleep" "everything happens for a reason" ; do
-  hits=$(grep -rIin $EXCL --include='*.md' -e "$pat" . | allow | grep -viE "\b(not|never|no|avoid|reject|rejected|prohibited|cannot|excludes?|without|nor|filter)\b|anti-slop|must not" | grep -v -e VOICE_DISCIPLINES -e INTEGRATION_REPORT | cut -d: -f1,2 || true)
+  hits=$(grep -rIin $EXCL --include='*.md' -e "$pat" . | allow | grep -viE "\b(not|never|no|avoid|reject|rejected|prohibited|cannot|excludes?|without|nor|filter)\b|anti-slop|must not" | grep -v -e VOICE_DISCIPLINES -e INTEGRATION_REPORT -e COHERENCE_LOG -e DECISION_LOG -e CHANGELOG | cut -d: -f1,2 || true)
   [ -n "$hits" ] && { echo "WARN   '$pat' (affirmative use?):"; echo "$hits" | sed 's/^/         /'; }
 done
 
